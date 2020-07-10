@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jul 08 14:56:10 IST 2020","Wed Jul 08 14:56:12 IST 2020","1855","","test_FetchData","","","","test_registration_valid_data",""
+"broken","Wed Jul 08 14:56:17 IST 2020","Wed Jul 08 14:56:17 IST 2020","0","","test_keyboard","","","","test_keyboard",""
+"broken","Wed Jul 08 14:56:16 IST 2020","Wed Jul 08 14:56:16 IST 2020","3","","test_Firstselenium","","","","test_openpage",""
+"broken","Wed Jul 08 14:56:16 IST 2020","Wed Jul 08 14:56:16 IST 2020","0","","test_MouseKeyboardop","","","","test_mouse_keyboard",""
+"passed","Wed Jul 08 14:56:17 IST 2020","Wed Jul 08 14:56:26 IST 2020","9111","","test_screenshot","","","","test_screenshot",""

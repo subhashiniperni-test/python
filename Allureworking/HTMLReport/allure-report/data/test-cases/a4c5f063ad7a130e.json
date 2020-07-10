@@ -1,0 +1,50 @@
+{
+  "uid" : "a4c5f063ad7a130e",
+  "name" : "test_screenshot",
+  "fullName" : "test_screenshot#test_screenshot",
+  "historyId" : "c1e0f91b5b5d071ecbbe35d3b4fbbcf4",
+  "time" : {
+    "start" : 1594200377301,
+    "stop" : 1594200386412,
+    "duration" : 9111
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_screenshot"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-M6V4NSV"
+  }, {
+    "name" : "thread",
+    "value" : "9872-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_screenshot"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a4c5f063ad7a130e.json",
+  "parameterValues" : [ ]
+}

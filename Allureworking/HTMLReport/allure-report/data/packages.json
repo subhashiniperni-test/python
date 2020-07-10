@@ -1,0 +1,90 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_FetchData",
+    "children" : [ {
+      "name" : "test_registration_valid_data",
+      "uid" : "2f77a370ceb1bf01",
+      "parentUid" : "4c14a9ee8c7e5840c926044e01de569e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594200370559,
+        "stop" : 1594200372414,
+        "duration" : 1855
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4c14a9ee8c7e5840c926044e01de569e"
+  }, {
+    "name" : "test_Firstselenium",
+    "children" : [ {
+      "name" : "test_openpage",
+      "uid" : "80dd76b6719e2cdd",
+      "parentUid" : "475ccd33ad3e15f5f2506e43a7fe1dd6",
+      "status" : "broken",
+      "time" : {
+        "start" : 1594200376594,
+        "stop" : 1594200376597,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "475ccd33ad3e15f5f2506e43a7fe1dd6"
+  }, {
+    "name" : "test_MouseKeyboardop",
+    "children" : [ {
+      "name" : "test_mouse_keyboard",
+      "uid" : "f8d3297d491873f3",
+      "parentUid" : "c451057b8aed08115626b7d87a1fa36b",
+      "status" : "broken",
+      "time" : {
+        "start" : 1594200376968,
+        "stop" : 1594200376968,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c451057b8aed08115626b7d87a1fa36b"
+  }, {
+    "name" : "test_keyboard",
+    "children" : [ {
+      "name" : "test_keyboard",
+      "uid" : "e0e269f2a63e7c8c",
+      "parentUid" : "a022d3bb2d2beb27baf73d74324ee7cf",
+      "status" : "broken",
+      "time" : {
+        "start" : 1594200377176,
+        "stop" : 1594200377176,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a022d3bb2d2beb27baf73d74324ee7cf"
+  }, {
+    "name" : "test_screenshot",
+    "children" : [ {
+      "name" : "test_screenshot",
+      "uid" : "a4c5f063ad7a130e",
+      "parentUid" : "0cff3f3f574dd6258fe4b242b4b69104",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594200377301,
+        "stop" : 1594200386412,
+        "duration" : 9111
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0cff3f3f574dd6258fe4b242b4b69104"
+  } ]
+}
